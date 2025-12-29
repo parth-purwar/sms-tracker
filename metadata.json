@@ -1,0 +1,8 @@
+{
+  "name": "SmsSpend Tracker",
+  "description": "An Android-inspired expense tracker that uses Gemini AI to parse transaction details from SMS notifications and visualizes daily spending.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
